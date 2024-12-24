@@ -1,0 +1,47 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.guest-nav {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.guest-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.guest-link {
+  padding: 8px 16px;
+  background: #f0f0f0;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #333;
+}
+
+.guest-profile {
+  text-align: center;
+}
+
+.qr-container {
+  margin: 20px 0;
+}
+
+.guest-info {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.event-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 10px 0;
+}
