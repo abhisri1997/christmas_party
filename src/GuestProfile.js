@@ -22,7 +22,7 @@ const GuestProfile = () => {
         <div className="guest-profile">
             <h2>Welcome {guest.name}!</h2>
             <div className="qr-container">
-            <img src={guest.photo} alt={`${guest.name}'s photo`} className="guest-photo" />
+            <img src={guest.photo} alt={`${guest.name}'s`} className="guest-photo" />
                 <QRCodeSVG
                     value={JSON.stringify(guestData.pageURL)}
                     size={256}
