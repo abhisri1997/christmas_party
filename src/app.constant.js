@@ -27,11 +27,11 @@ export const events = [
 ];
 
 export const guests = [
-    { id: 1, name: 'Vaishnavi', role: 'Participant', personality: 'Enthusiastic Foodie' },
-    { id: 2, name: 'Aseem', role: 'Participant', personality: 'Dad Joke Expert' },
-    { id: 3, name: 'Priyansh', role: 'Participant', personality: 'Game Master' },
-    { id: 4, name: 'Vikas', role: 'Participant', personality: 'Quick Guesser' },
-    { id: 5, name: 'Arjun', role: 'Participant', personality: 'Food Taster' },
-    { id: 6, name: 'Aarti', role: 'Participant', personality: 'Creative Mind' },
-    { id: 7, name: 'Prabhat', role: 'Bouncer', personality: 'Strategic Player' }
+    { id: 1, name: 'Baishnabi', role: 'Participant', personality: 'Fun police', photo: '/images/vaishnavi.png' },
+    { id: 2, name: 'Waseem', role: 'Participant', personality: 'Master Manipulator', photo: '/images/aseem.png' },
+    { id: 3, name: 'Priyamsh', role: 'Participant', personality: 'Always ready', photo: '/images/priyansh.png' },
+    { id: 4, name: 'Vimkas', role: 'Participant', personality: 'Silent One', photo: '/images/vikas.png' },
+    { id: 5, name: 'Rotulu', role: 'Participant', personality: 'Drink Expert', photo: '/images/arjun.png' },
+    { id: 6, name: 'Aamrati', role: 'Participant', personality: 'Khujli Expert', photo: '/images/aarti.png' },
+    { id: 7, name: 'Brabhat', role: 'Bouncer', personality: 'The Vapist', photo: '/images/prabhat.png' }
 ];
