@@ -27,7 +27,7 @@ const GuestProfile = () => {
                     value={JSON.stringify(guestData.pageURL)}
                     size={256}
                     level="H"
-                    style={{ display: 'block' }}
+                    style={{ display: 'none' }}
                 />
             </div>
             <div className="guest-info">
